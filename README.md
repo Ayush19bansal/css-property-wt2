@@ -1,5 +1,11 @@
 # Hosted link https://ayush19bansal.github.io/css-property-wt2/
 
+# UI
+![image](https://github.com/Ayush19bansal/css-property-wt2/assets/118842033/86ff1c43-639a-4018-9f86-96af369b2706)
+![image](https://github.com/Ayush19bansal/css-property-wt2/assets/118842033/edcfa1fb-279e-4605-838b-05c343fc91e0)
+![image](https://github.com/Ayush19bansal/css-property-wt2/assets/118842033/ca9ffd65-f4fc-42ba-bdc1-2503b1fc00b3)
+
+
 # HTML
 ![image](https://github.com/Ayush19bansal/css-property-wt2/assets/118842033/24d4eb2c-7621-4bf8-bc0c-b282107688dc)
 ![image](https://github.com/Ayush19bansal/css-property-wt2/assets/118842033/dd0581da-a8fb-46a3-b40a-f1c2aa95da99)
